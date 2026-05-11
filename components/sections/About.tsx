@@ -125,11 +125,14 @@ export default function About() {
               embeddings and vector databases.
             </p>
             <p>
-              My research is published across{" "}
-              <span className="text-emerald-400 font-medium">IEEE, ACL, EMNLP, AAAI, CVPR, NeurIPS,
-              and IEEE</span> — with 60+ citations across 18 publications. I serve as an{" "}
-              <span className="text-white font-medium">IEEE peer reviewer</span> and have been an
-              invited guest speaker on Generative AI in quantitative finance.
+              I work at the intersection of AI, Machine Learning, and Quantitative Finance, with research
+              publications in{" "}
+              <span className="text-emerald-400 font-medium">IEEE conferences</span> and projects
+              spanning LLMs, agentic AI, and financial intelligence systems. My work has received{" "}
+              <span className="text-white font-medium">60+ citations across 18 publications</span>,
+              and I have served as an{" "}
+              <span className="text-white font-medium">IEEE reviewer</span> and invited speaker on
+              Generative AI in finance.
             </p>
             <p>
               I believe the best AI systems are built by researchers who understand both the theory
