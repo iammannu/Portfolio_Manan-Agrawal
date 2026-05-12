@@ -150,7 +150,7 @@ export default function Hero() {
                 <BookOpen size={15} /> View Research
               </button>
               <a
-                href="/Resume_Manan_Agrawal.pdf"
+                href="/Mana_Agrawal_Researcher_Resume.pdf"
                 download
                 className="btn-ghost px-5 py-2.5 rounded-xl text-sm font-semibold flex items-center gap-2"
               >

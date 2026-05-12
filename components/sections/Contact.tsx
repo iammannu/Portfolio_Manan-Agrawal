@@ -171,7 +171,7 @@ export default function Contact() {
           {/* Resume download CTA */}
           <motion.div variants={fadeUpVariant} className="mt-6">
             <a
-              href="/Resume_Manan_Agrawal.pdf"
+              href="/Mana_Agrawal_Researcher_Resume.pdf"
               download
               className="flex items-center justify-center gap-2 w-full py-3 rounded-xl btn-primary text-sm font-semibold"
             >
