@@ -11,7 +11,7 @@ import { fadeUpVariant, staggerContainer } from "@/lib/utils";
 const STATS = [
   { value: 18, suffix: "+", label: "Publications", sublabel: "IEEE & Top Venues" },
   { value: 60, suffix: "+", label: "Citations", sublabel: "Google Scholar" },
-  { value: 1, suffix: "", label: "h-index", sublabel: "Research Impact" },
+  { value: 5, suffix: "", label: "h-index", sublabel: "Research Impact" },
   { value: 5, suffix: "", label: "Experiences", sublabel: "Research & Industry" },
 ];
 

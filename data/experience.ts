@@ -19,7 +19,7 @@ export const experiences: Experience[] = [
   /* ── 1. Martinrea ─────────────────────────────────────────── */
   {
     id: "exp-martinrea",
-    title: "Research & Development AI Intern",
+    title: "Research & Development AI Associate",
     company: "Martinrea International",
     companyUrl: "https://www.martinrea.com",
     location: "Michigan, Remote",
@@ -42,7 +42,7 @@ export const experiences: Experience[] = [
   /* ── 2. Honeywell ─────────────────────────────────────────── */
   {
     id: "exp-honeywell",
-    title: "Generative AI Intern",
+    title: "Generative AI Associate",
     company: "Honeywell",
     companyUrl: "https://www.honeywell.com",
     location: "Remote / USA",
@@ -65,11 +65,11 @@ export const experiences: Experience[] = [
   /* ── 3. SS Infotech ───────────────────────────────────────── */
   {
     id: "exp-ssinfotech",
-    title: "ML Intern",
+    title: "Machine Learning Engineer",
     company: "SS Infotech",
     location: "India",
-    duration: "Oct 2023 – Jun 2024",
-    startDate: "Oct 2023",
+    duration: "Jul 2022 – Jun 2024",
+    startDate: "Jul 2022",
     endDate: "Jun 2024",
     type: "internship",
     description: [

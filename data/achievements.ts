@@ -75,13 +75,13 @@ export const achievements: Achievement[] = [
     id: "ach-06",
     title: "60+ Total Citations",
     description:
-      "Research cited 60+ times across Google Scholar with h-index of 1 and i10-index of 1, reflecting early growing impact across AI/ML, Computer Vision, Financial AI, and Agentic Systems research.",
+      "Research cited 60+ times across Google Scholar with h-index of 5 and i10-index of 1, reflecting early growing impact across AI/ML, Computer Vision, Financial AI, and Agentic Systems research.",
     icon: "TrendingUp",
     stat: "60+",
     statLabel: "Citations",
     color: "#06B6D4",
     year: "2023–2024",
-    badge: "h-index: 1",
+    badge: "h-index: 5",
   },
   {
     id: "ach-07",

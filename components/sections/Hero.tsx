@@ -38,7 +38,7 @@ const TERMINAL_LINES = [
   { text: "$ cat research_focus.txt", delay: 1200 },
   { text: "RAG · LLMs · Transformers · Quant AI · Vision", delay: 1800 },
   { text: "$ echo $PUBLICATIONS", delay: 2400 },
-  { text: "18 papers · 60+ citations · h-index: 1", delay: 3000 },
+  { text: "18 papers · 60+ citations · h-index: 5", delay: 3000 },
   { text: "$ _", delay: 3600, cursor: true },
 ];
 
@@ -247,7 +247,7 @@ export default function Hero() {
                   {[
                     { label: "Papers", value: "18+" },
                     { label: "Citations", value: "60+" },
-                    { label: "h-index", value: "1" },
+                    { label: "h-index", value: "5" },
                   ].map(({ label, value }) => (
                     <div key={label} className="text-center p-2 rounded-xl bg-white/3 border border-white/5">
                       <p className="text-lg font-black text-white leading-none">{value}</p>

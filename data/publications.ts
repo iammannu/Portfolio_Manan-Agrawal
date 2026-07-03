@@ -278,7 +278,7 @@ export const publications: Publication[] = [
 
 export const scholarStats = {
   totalCitations: 60,
-  hIndex: 1,
+  hIndex: 5,
   i10Index: 1,
   totalPublications: publications.length,
   profileUrl: "https://scholar.google.com/citations?user=2vrZHA0AAAAJ&hl=en",
